@@ -5,7 +5,7 @@ This project is started to prepare tools or scripts in various languages like ja
 ### Q- is it required? We have print screen key and snipping tools in every operating system then why this?
 > Well it can be helpful in office use and in projects like testing where taking screenshots is heavily done. And if printscreen key is not working or disabled by administrator (for some reason or policy)
 
-> If you are not allowed to download any exe file and install any program. You can download or copy C# code and can compile yourself by using preinstalled C# compiler CSC which is there in almost every winodows.
+> If you are not allowed to download any exe file and install any program. You can download or copy C# code and can compile yourself by using preinstalled C# compiler CSC which is there in almost every windows.
 
 ### Project contains following tools which are working till date:
 - Java class that take screenshot and return image.
@@ -48,7 +48,7 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc jcapture.cs /r:C:\Windows\as
 - in properties you can find shortcut tab.
 - there is one shortcut key field. now just assign any key combination in that.
 - you can use that key combination to run that program while doing you work.
- 
+
 ##### in case of java class:
 - procedure is same but first you to write batch file that can run java class.
 - for example write : java YourClass
